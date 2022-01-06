@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules
+
+# Ignore built ts files
+dist/**/*
+
+# ignore package-lock.lock
+package-lock.json
+
+# OS metadata
+.DS_Store
+
+# API keys and secrets
+.env

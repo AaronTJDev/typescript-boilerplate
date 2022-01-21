@@ -14,10 +14,9 @@
     "url": "git+https://github.com/AaronTJDev/typescript-boilerplate.git"
   },
   "keywords": [
-    "spreadsheet",
-    "data",
-    "cleaning",
-    "validation"
+    "typescript",
+    "boilerplate",
+    "javascript"
   ],
   "author": "Aaron Jackson",
   "license": "ISC",

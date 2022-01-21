@@ -21,9 +21,9 @@
   "author": "Aaron Jackson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AaronTJDev/spreadsheet-cleaner/issues"
+    "url": "https://github.com/AaronTJDev/typescript-boilerplate/issues"
   },
-  "homepage": "https://github.com/AaronTJDev/spreadsheet-cleaner#readme",
+  "homepage": "https://github.com/AaronTJDev/typescript-boilerplate#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.9.0",
     "@typescript-eslint/parser": "^5.9.0",
